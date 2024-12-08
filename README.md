@@ -1,6 +1,6 @@
 # Coffee_Sales
 
-To ensure you view the complete dashboard without any error due to data resources, kindly follow the steps below after downloading the Power BI and the dataset file (coffee sales.csv):
+To ensure you view the complete dashboard without any error due to data resources, kindly follow the steps below after downloading the Power BI file and the dataset file (coffee sales.csv):
 1. Open the Power BI file (Coffee Vending Sales)
 2. Click "Transform Data" on the Home ribbon
 3. Under the applied steps section, click the setting icon beside the "Source"
